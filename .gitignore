@@ -1,4 +1,4 @@
-# Xcode
+# Xcode droppings
 #
 build/
 *.pbxuser
@@ -17,6 +17,17 @@ DerivedData
 *.ipa
 *.xcuserstate
 
+# Finder droppings
+#
+.DS_Store
+
+# emacs droppings
+#
+*~
+\#*
+.\#*
+
+
 # CocoaPods
 #
 # We recommend against adding the Pods directory to your .gitignore. However
@@ -31,3 +42,4 @@ DerivedData
 # Carthage/Checkouts
 
 Carthage/Build
+
